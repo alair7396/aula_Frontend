@@ -1,0 +1,16 @@
+header {
+  background-color: black;
+  grid-area: cabecalho;
+}
+aside{
+  background-color: blue;
+  grid-area: lado-esquerdo;
+}
+main{
+  background-color: blueviolet;
+  grid-area: principal;
+}
+footer{
+  background-color: brown;
+  grid-area: rodape;
+}
